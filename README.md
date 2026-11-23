@@ -20,7 +20,7 @@ A entrega é em **30/11/2026**.
 | Modelos BPMN editáveis (BPMN 2.0 XML) | `processos/bpmn/` |
 | Exportações dos diagramas (PNG/SVG/PDF) | `processos/imagens/` |
 | Slides da apresentação (PDF e editável) | `apresentacao/` |
-| Protótipos de interface | `prototipos/` (o link do Figma vai aqui quando existir) |
+| Protótipos de interface | [Figma](https://press-dash-03238535.figma.site/) e `prototipos/` |
 
 ## Processos
 
